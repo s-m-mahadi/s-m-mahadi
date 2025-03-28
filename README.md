@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm <strong>S. M. Mahadi. I made this project just for fun!</strong>, a passionate <strong>Pen Tester & Bug Bounty Hunter</strong> from Bangladesh.<br><br>
+<p align="left">I'm <strong>S. M. Mahadi. I made this project just for fun! </strong>I am a passionate <strong>Pen Tester & Bug Bounty Hunter</strong> from Bangladesh.<br><br>
 - 🔍 Focused on **penetration testing, exploit research, and cybersecurity.**<br>
 - 📚 Currently learning **advanced ethical hacking & automation.**<br>
 - 🏴‍☠️ Passionate about **finding vulnerabilities & strengthening security.**</p>
