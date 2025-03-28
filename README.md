@@ -1,11 +1,10 @@
-
-![logo](https://github.com/user-attachments/assets/bed39d27-5b53-486f-bacf-8c3d948a9c96 )
-
-###
-
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+<img src= "https://github.com/user-attachments/assets/ca566987-d081-4bb6-b5e1-4b200cddc45e"  height="277" width="350" />
+</div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/s-m-mahadi" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
+  </a>
 </div>
 
 ###
@@ -44,3 +43,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
 </div>
+<div align="center">
+<img src= "https://github.com/user-attachments/assets/f9d69491-5bfc-4c8b-a8ed-dcea3d870c26"  height="200" width="200" />
+<div/>
